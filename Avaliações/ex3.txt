@@ -1,0 +1,1 @@
+A soma dos numeros pares e 24
