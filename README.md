@@ -6,10 +6,12 @@ Tem atenção que estas resoluções são apenas sugestões e podem não refleti
 Neste repositório, não está incluido os manuais que a professora disponibilizou, devido ao peso dos mesmos.
 
 ## Estrutura
-O repositório está dividido em três pastas principais:
+O repositório está dividido em quatro pastas principais:
 - Exercicios: Onde contém o enunciado dos exercicios e a resolução dos mesmos.
 - Avaliações: Onde contém os enunciados e as resoluções das avaliações realizadas em anos anteriores.
 - Resumos: Folhas de apoio utilizadas na realização das frequências/exames.
+- Extras: Exercicios extras criado com o ChatGPT para estudar para as frequências. Os exercicios são similares aos que saíram anteriormente em frequências
+
 
 Se encontrares mais exercícios, avaliações relevantes ou folhas de apoio, contribui para o repositório.
 
