@@ -1,5 +1,6 @@
 # Exercicios Extra Frequência 3
 **Exercício 1 – Classe e Herança**
+
 Considere a classe `Funcionario` com os atributos:
 
 * `id` (número do funcionário)
@@ -21,6 +22,7 @@ e. Crie um objeto de cada classe e desenvolva o código necessário para testar 
 ---
 
 **Exercício 2 – Validação de Dados**
+
 Elabore a função `valida_nota` que receba como parâmetro a nota de um aluno. A nota deve ser um número entre 0 e 20.
 
 a. Valide a nota utilizando tratamento de exceções.
@@ -32,6 +34,7 @@ c. Desenvolva o programa principal que solicite a nota ao estudante, utilize amb
 ---
 
 **Exercício 3 – Classe e Lista de Objetos**
+
 Considere a classe `Livro` com os atributos:
 
 * `titulo`
@@ -50,6 +53,7 @@ d. Desenvolva uma função que percorra a lista e imprima apenas os livros publi
 ---
 
 **Exercício 4 – Validação de Dados com Texto**
+
 Elabore a função `valida_email` que receba como parâmetro um endereço de email.
 
 a. Valide se o email contém o caractere `@` e um domínio válido.
@@ -60,6 +64,7 @@ c. Crie o programa principal que peça ao utilizador um email, aplique ambas as 
 
 ---
 **Exercício 5 – Classes e Métodos Especiais**
+
 Considere a classe `Produto` com os atributos:
 
 * `codigo`
@@ -72,11 +77,13 @@ a. Crie a classe `Produto`.
 b. Implemente um construtor e o método `__str__` para apresentar os dados de forma legível.
 
 c. Crie um método `atualizar_stock` que receba um valor e some ao stock existente.
+
 d. No programa principal, crie dois produtos, atualize o stock de ambos e apresente a informação final.
 
 ---
 
 **Exercício 6 – Validação Numérica**
+
 Desenvolva a função `valida_quantidade` que recebe a quantidade de artigos a comprar. A quantidade deve ser um inteiro positivo.
 
 a. Valide o valor através de tratamento de exceções.
@@ -88,6 +95,7 @@ c. No final, grave o valor validado num ficheiro `quantidade.txt`.
 ---
 
 **Exercício 7 – Herança e Polimorfismo**
+
 Considere a classe `Veiculo` com os atributos:
 
 * `marca`
@@ -105,6 +113,7 @@ d. No programa principal, crie objetos de cada tipo e apresente a informação d
 ---
 
 **Exercício 8 – Manipulação de Ficheiros**
+
 Crie um programa que peça ao utilizador três frases distintas.
 
 a. Grave cada frase numa nova linha de um ficheiro chamado `frases.txt`.
@@ -116,6 +125,7 @@ c. Mostre o total acumulado de caracteres no final.
 ---
 
 **Exercício 9 – Estruturas de Dados e Filtragem**
+
 Considere uma lista de dicionários onde cada dicionário representa um cliente com:
 
 * `nome`
@@ -132,6 +142,7 @@ d. No programa principal, apresente os clientes filtrados pelas duas condições
 
 ---
 **Exercício 10 – Classes e Encapsulamento**
+
 Considere a classe `ContaBancaria` com os atributos:
 
 * `titular`
@@ -146,6 +157,7 @@ c. No programa principal, crie uma conta, faça um depósito, um levantamento e 
 ---
 
 **Exercício 11 – Tratamento de Exceções em Operações Matemáticas**
+
 Crie uma função `divide` que receba dois números e devolva o resultado da divisão.
 
 a. Implemente tratamento de exceções para evitar divisão por zero.
@@ -157,6 +169,7 @@ c. No programa principal, peça dois valores ao utilizador, chame ambas as verif
 ---
 
 **Exercício 12 – Herança Múltipla**
+
 Considere as classes:
 
 * `Identificacao` (atributos: `id`, `nome`)
@@ -173,6 +186,7 @@ d. Teste a classe no programa principal.
 ---
 
 **Exercício 13 – Processamento de Texto**
+
 Crie um programa que solicite ao utilizador um parágrafo.
 
 a. Grave o parágrafo num ficheiro `texto.txt`.
@@ -184,6 +198,7 @@ c. Apresente também a palavra mais longa encontrada.
 ---
 
 **Exercício 14 – Coleções e Ordenação**
+
 Considere uma lista de objetos da classe `Filme`, cada um com:
 
 * `titulo`
